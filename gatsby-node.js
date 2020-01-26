@@ -13,6 +13,7 @@ exports.createPages = ({ graphql, actions }) => {
       list: path.resolve('./src/templates/list.js'),
       single: path.resolve('./src/templates/single.js'),
       blocks: path.resolve('./src/templates/blocks.js'),
+      vacature: path.resolve('./src/templates/vacature.js'),
     }
     resolve(
       // query for markdown files
@@ -73,10 +74,13 @@ exports.createPages = ({ graphql, actions }) => {
 
           // determine which layout to use for post
           let templateComponent
+          console.log('🔥get template ', post.node)
           if (post.node.frontmatter.template) {
             templateComponent = templates[post.node.frontmatter.template]
           } else if (isIndexPage(post)) {
             templateComponent = templates.list
+          } else if (post.node.fields.slug.startsWith('/vacatures')) {
+            templateComponent = templates.vacature
           } else {
             templateComponent = templates.single
           }
