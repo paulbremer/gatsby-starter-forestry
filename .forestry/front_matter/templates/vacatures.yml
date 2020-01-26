@@ -18,6 +18,6 @@ fields:
       section: 
       file: 
       path: 
-  label: template
+  label: Template
 pages:
 - src/pages/vacatures/developer.md
