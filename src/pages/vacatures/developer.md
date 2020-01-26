@@ -35,4 +35,4 @@ Natuurlijk super belangrijk die rijen met skills. Maar wat wij bij Saxum eigenli
 
 Daarnaast vragen we een afgeronde hbo-opleiding, minimaal 2 jaar ervaring als Front-end Developer en een uitstekende kennis van de Nederlandse taal. Denk je nu ‘yes’, dit wil en kan ik? Laat dan gauw van je horen en solliciteer direct!
 
-Ben je geïnteresseerd?
+Ben je geïnteresseerd??
