@@ -7,3 +7,5 @@ fields:
   config:
     required: true
   label: Titel
+pages:
+- src/pages/vacatures/developer.md

@@ -28,7 +28,7 @@ sections:
   label: Vacatures
   create: documents
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - vacatures
 - type: heading
