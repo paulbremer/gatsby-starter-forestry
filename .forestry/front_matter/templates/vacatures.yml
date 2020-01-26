@@ -12,7 +12,8 @@ fields:
   default: ''
   config:
     required: false
-    options: []
+    options:
+    - Vacature
     source:
       type: simple
       section: 
