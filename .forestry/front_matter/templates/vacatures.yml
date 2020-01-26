@@ -7,18 +7,5 @@ fields:
   config:
     required: true
   label: Titel
-- name: template
-  type: select
-  default: ''
-  config:
-    required: false
-    options:
-    - Vacature
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Template
 pages:
 - src/pages/vacatures/developer.md
