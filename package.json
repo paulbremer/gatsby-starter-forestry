@@ -34,9 +34,10 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
+    "serve": "gatsby serve",
     "forestry:preview": "gatsby develop -p 8080 -H 0.0.0.0",
     "forestry:publish": "gatsby build --prefix-paths",
-    "start": "npm run develop",
+    "start": "yarn run develop",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
