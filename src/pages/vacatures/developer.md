@@ -7,3 +7,14 @@ template: ''
 **Lijkt je dat nou wel wat, om zelf te bepalen wáár, hoelang en met welke stack je gaat werken? Wil jij jezelf razendsnel verder ontwikkelen, bij projecten die écht goed op je cv staan? Werk je graag zelfstandig, maar vind je een fijn team om op terug te kunnen vallen (of een biertje mee te drinken) ook wel erg fijn? Lees dan vooral verder, want wie weet ben jij onze nieuwe Front-end developer... : -)**
 
 Saxum is een interim agency. Wij houden ons bezig met de flexibele inzet van digital professionals op de tofste projecten bij onze klanten. Wat voor projecten zijn dat precies? Onze mensen hebben al mooi werk geleverd voor opdrachtgevers zoals VodafoneZiggo, TomTom, NS, Albelli, Zilveren Kruis, Scotch & Soda en nog heel veel meer. Van IoT tot app, van VR tot “senioren-Tinder”. We’ve done it all! Saxum is groot genoeg om de meest gave projecten binnen te slepen en klein genoeg om een hechte groep collega’s te vormen. Uiteindelijk sta jij bij ons centraal en wat jouw eerste project gaat worden ligt dus helemaal aan jouw expertise, ambities en woonplaats. Ondanks dat jij je kunsten doorgaans op locatie bij onze klanten vertoont, ben je altijd welkom op onze homebase voor een potje Fifa, op de altijd geslaagde vrijmibo of met een Food ’n Code-avond.
+
+## Dit zoeken onze opdrachtgevers
+
+* Je hebt een passie voor je vak en wil écht verschil maken
+* Je beschikt over een let’s do it mentaliteit en de juiste social skills om je overal snel thuis te voelen
+* Je werkt uiteraard met JavaScript ES6+ (en/of Typescript)
+* Naast bovengenoemd punt ben je ook comfortabel met één of meerdere frameworks
+* Je vindt het belangrijk (en heel erg leuk) om altijd op de hoogte te zijn van de nieuwste technieken
+* Kennis van Git
+* Ervaring in agile omgevingen zorgt voor een plusje achter jouw naam
+* En last but not least: mooie code, die je met trots kunt presenteren.
