@@ -18,3 +18,21 @@ Saxum is een interim agency. Wij houden ons bezig met de flexibele inzet van dig
 * Kennis van Git
 * Ervaring in agile omgevingen zorgt voor een plusje achter jouw naam
 * En last but not least: mooie code, die je met trots kunt presenteren.
+
+Natuurlijk super belangrijk die rijen met skills. Maar wat wij bij Saxum eigenlijk net zo belangrijk vinden, is dat je in ons team past. En dat je beschikt over de juiste social skills en de drive hebt om jezelf te ontwikkelen. En daar krijg je een hoop voor terug.
+
+## Wij bieden je
+
+* De kans om producten te ontwikkelen waar je indruk mee maakt
+* Een kijkje in de keuken bij aansprekende opdrachtgevers, van start-up tot corporate
+* Veel vrijheid en verantwoordelijkheid
+* Een hele hoop ambitieuze en enthousiaste collega’s, zowel bij Saxum als op project
+* Goede secundaire arbeidsvoorwaarden, zoals een studiebudget, pensioenregeling, reiskostenvergoeding, 25 vakantiedagen, laptop en al het andere wat je nodig hebt om goed je werk te kunnen doen
+* Een blitse VanMoof Smart bike
+* Wekelijkse borrels, veel leuke uitjes en regelmatig meet-ups, die we zelf organiseren
+* Workshops waarin we de nieuwste ins-en-outs op development-gebied met elkaar delen
+* En natuurlijk je salaris. Ook als je even geen project hebt.
+
+Daarnaast vragen we een afgeronde hbo-opleiding, minimaal 2 jaar ervaring als Front-end Developer en een uitstekende kennis van de Nederlandse taal. Denk je nu ‘yes’, dit wil en kan ik? Laat dan gauw van je horen en solliciteer direct!
+
+Ben je geïnteresseerd?
